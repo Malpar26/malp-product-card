@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImage should show the component with custom image 1`] = `
+<img
+  alt="Product"
+  className="productImg custom-class"
+  src="https://hola.jpg"
+/>
+`;
+
+exports[`ProductImage should show the component with product image 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product"
+    className="productImg undefined"
+    src="https://hola.jpg"
+  />
+</div>
+`;
+
+exports[`ProductTile should show the component with custom title 1`] = `
+<img
+  alt="Product"
+  className="productImg custom-class"
+  src="https://hola.jpg"
+/>
+`;
+
+exports[`ProductTile should show the component with product title 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product"
+    className="productImg undefined"
+    src="https://hola.jpg"
+  />
+</div>
+`;
